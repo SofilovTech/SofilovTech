@@ -2,7 +2,7 @@
 
 **`Aprendiz de quality Analist-QA`**
 
-Me nome Sofia Vitória, tenho 20 anos e sou natural do Rio de janeiro. Concluí o ensino médio no CTA, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNISSUAM. Sou apaixonada por tecnologia e compartilho meu desenvolvimento, evolução e novas aprendizagem.
+Me chamo Sofia Vitória, tenho 20 anos e sou natural do Rio de janeiro. Concluí o ensino médio no CTA, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNISSUAM. Sou apaixonada por tecnologia e compartilho meu desenvolvimento, evolução e novas aprendizagem.
 <p align="left">
 
 <br clear="both">
